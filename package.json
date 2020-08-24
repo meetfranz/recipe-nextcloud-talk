@@ -9,6 +9,7 @@
   "config": {
     "hasNotificationSound": true,
     "hasIndirectMessages": true,
-    "hasCustomUrl": true
+    "hasCustomUrl": true,
+    "serviceURL": "https://{nextcloud}/apps/talk/"
   }
 }
