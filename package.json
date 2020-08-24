@@ -10,6 +10,6 @@
     "hasNotificationSound": true,
     "hasIndirectMessages": true,
     "hasCustomUrl": true,
-    "serviceURL": "https://{nextcloud}/apps/talk/"
+    "serviceURL": "https://{nextcloud}/apps/spreed/"
   }
 }
