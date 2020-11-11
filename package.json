@@ -1,14 +1,15 @@
 {
   "id": "nextcloud-talk",
   "name": "Nextcloud Talk",
-  "version": "1.0.1",
-  "description": "Nextcloud Talk",
+  "version": "1.0.3",
+  "description": "Nextcloud Talk - chat, video & audio-conferencing using WebRTC",
   "main": "index.js",
   "author": "Stefan Malzner <stefan@adlk.io>",
   "license": "MIT",
   "config": {
     "hasNotificationSound": true,
     "hasIndirectMessages": true,
-    "hasCustomUrl": true
+    "hasCustomUrl": true,
+    "serviceURL": "https://{nextcloud}/apps/spreed/"
   }
 }
